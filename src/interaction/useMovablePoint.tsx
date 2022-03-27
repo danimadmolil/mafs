@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react"
-import * as vec from "vec-la"
+import vec from "../vec"
 import { theme } from "../display/Theme"
 import { Vector2 } from "../math"
 import MovablePoint from "./MovablePoint"
